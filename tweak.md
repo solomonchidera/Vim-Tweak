@@ -1,6 +1,9 @@
 ## Vim customisation
 
 # create a file with " .vimrc "as a name and paste all this script there
+save the file and open vim
+
+on normal mode press esc to be sure, then enter this command :Pluginistall to install all the necessary plugin.
 
 # Guildline coming soon..
 
