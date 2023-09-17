@@ -19,7 +19,6 @@ filetype plugin on
 " Load an indent file for the detected file type.
 filetype indent on
 
-
 " Highlight cursor line underneath the cursor horizontally.
 set cursorline
 
